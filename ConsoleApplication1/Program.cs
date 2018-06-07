@@ -17,6 +17,7 @@ namespace ConsoleApplication1
             //change 5 in master
             //change 6 in master remote
             //change 7 in master
+            //change 8 in branch-2 remote
         }
     }
 }
