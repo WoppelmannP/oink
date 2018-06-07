@@ -18,6 +18,8 @@ namespace ConsoleApplication1
             //change 6 in master remote
             //change 7 in master
             //change 8 in branch-2 remote
+            
+            //rebase - change in branch-2 remote
         }
     }
 }
