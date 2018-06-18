@@ -10,13 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            //change 1
-            //change 2 in branch-1
-            //change 4 in branch-1
-            //change 3 in master
-            //change 5 in master
-            //change 6 in master remote
-            //change 7 in master
+            //start release 1 here
         }
     }
 }
